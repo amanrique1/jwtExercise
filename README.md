@@ -5,9 +5,9 @@
 *writer: puede modificar su info (sin alterar su rol) y ver todos los usuarios
 *reader: puede ver todos los usuarios
 ```
-Guardar token para verficar las funcionalidades
 ##Rutas
 ```
 *localhost:3000/login: ingresar
 *localhost:3000/login: GET, POST y PUT de acuerdo al rol
 ```
+Guardar token para verficar las funcionalidades
